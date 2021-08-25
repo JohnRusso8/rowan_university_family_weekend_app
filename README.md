@@ -1,5 +1,5 @@
 # rufamilyweekendapp
 
 Rowan University Family Weekend App.
-This Application is for the use of informaion for Rowan Univeristys family weekend.
-
+Made with Dart.
+This application is for the use of informaion for Rowan Univeristy family weekend.
